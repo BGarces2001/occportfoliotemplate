@@ -7,6 +7,7 @@ import { LuGraduationCap } from 'react-icons/lu'
  * ADD IMAGES 🖼️ BELOW AS NEEDED
  */
 import artifact1 from '../../public/artifacts/artifact1.png'
+import artifact2 from '../../public/artifacts/artifact1.png' 
 import metaimage from '../../public/images/metaimage.png'
 import portrait from '../../public/images/portrait.jpg'
 /**
@@ -16,7 +17,7 @@ import gallery1 from '../../public/images/gallery/gallery1.jpg'
 import gallery2 from '../../public/images/gallery/gallery2.jpg'
 import gallery3 from '../../public/images/gallery/gallery3.jpg'
 /**
- * END IMPORTING IMAGES
+ * END IMPORTING IMAGES'../../public/artifacts/artifact1.png'
  */
 /**
  * BEGIN SEO DATA
@@ -25,10 +26,10 @@ import gallery3 from '../../public/images/gallery/gallery3.jpg'
  * ⚠️ Be sure to update your lastUpdated when you edit
  */
 export const sitemetadata: Sitemetadata = {
-  domain: 'occeofportfolio.netlify.app',
-  title: 'Your Name',
-  firstName: 'George',
-  lastName: 'Washington',
+  domain: 'billygarces.billygarces.com',
+  title: 'Billy Garces',
+  firstName: 'Billy'
+  lastName: 'Garces',
   description: "Replace with a description of you that's 145-160 characters.",
   footer: 'Your Name | All rights reserved',
   metaimage: metaimage,
